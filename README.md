@@ -44,7 +44,7 @@ Travello/
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/travello.git
+git clone https://github.com/prasadjagzap/travello.git
 
 2. Open the project folder.
 
@@ -72,5 +72,5 @@ The booking page includes the following fields:
 ---
 
 ## 👨‍💻 Author
-Your Name  
-GitHub: https://github.com/yourusername
+Prasad Jagzap
+GitHub: https://github.com/prasadjagzap
